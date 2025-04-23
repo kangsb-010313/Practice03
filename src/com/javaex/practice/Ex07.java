@@ -14,8 +14,8 @@ public class Ex07 {
 			int num = sc.nextInt();
 			
 //			if(num <= 7) {
-				for(int i=1; i<=num; i++) {
-					for(int a=1; a<=i; a++) {
+				for(int i=1; i<=num; i++) { 
+					for(int a=1; a<=i; a++) { 
 						System.out.print(i);
 					}
 					System.out.println("");
